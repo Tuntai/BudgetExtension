@@ -5,3 +5,6 @@ The user will receive a notification if they exceed the Budget limit they have s
 
 There is another functionality that the user can reset their total spending whenever they want and shall receive a notification when it is reset!
 Iteresting isn't it?? :blush:
+
+## ScreenShots
+![Screenshot1](BudgetExtension_view.png)
