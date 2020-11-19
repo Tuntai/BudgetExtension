@@ -7,4 +7,4 @@ There is another functionality that the user can reset their total spending when
 Iteresting isn't it?? :blush:
 
 ## ScreenShots
-![Screenshot1](BudgetExtension_view.png)
+![Screenshot1](BudgetExtension_view.png)                                            
