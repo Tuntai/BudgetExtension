@@ -8,3 +8,12 @@ Iteresting isn't it?? :blush:
 
 ## ScreenShots
 ![Screenshot1](BudgetExtension_view.png)                                            
+
+## Loading the extension locally
+1. Download or clone the repo
+2. Go to chrome://extensions/
+3. Turn on the developer mode at the top right corner
+4. Select "Load unpacked"
+5. Select the folder. 
+
+AND....Yuppppeeee!! can you see the icon with your other pinned extensions? Start managing your expenditure right away!!
