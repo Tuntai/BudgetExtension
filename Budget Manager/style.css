@@ -1,0 +1,42 @@
+html{
+
+    border-style: solid;
+    color: Navy;
+}
+
+h1{
+	color:Navy
+}
+h2{
+	color: MediumBlue;
+}
+h3{
+	color: Navy;
+}
+input {
+  border-style: solid;
+  border-color: Navy;
+}
+
+button {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: Navy;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 5px #999;
+}
+
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
