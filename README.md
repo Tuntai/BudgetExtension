@@ -4,7 +4,7 @@ It is a chrome extension for managing budget. the user can set up a budget limit
 The user will receive a notification if they exceed the Budget limit they have set.
 
 There is another functionality that the user can reset their total spending whenever they want and shall receive a notification when it is reset!
-Iteresting isn't it?? :blush:
+Interesting isn't it?? :blush:
 
 ## ScreenShots
 ![Screenshot1](BudgetExtension_view.png)                                            
